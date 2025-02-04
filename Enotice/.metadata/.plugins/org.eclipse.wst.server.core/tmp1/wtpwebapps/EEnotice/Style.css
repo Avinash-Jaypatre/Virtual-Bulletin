@@ -1,0 +1,49 @@
+@charset "ISO-8859-1";
+/*Banner Start*/
+.banner-image
+{
+    background-image: url(Banner5.jpg);
+    height: auto;
+    width: auto;
+    background-repeat: no-repeat;
+    /*background-position: left center;*/
+    /* background-position: right center; */
+    background-position: 100% 40%;
+    background-size: cover;
+}
+/*Banner End*/
+.banner-heading
+{
+    /* font-size:large;*/
+    font-weight:bolder;
+    /* font-weight:normal;
+    /* font-weight:normal;*/
+}
+.Main-heading
+{
+    font-weight:bolder;
+}
+/*Footer Start*/
+.footer
+{
+    background-color: #1A1A1A;
+    color: aliceblue;
+}
+/*Footer End*/
+/*Contact Us Start*/
+.Contact_image
+{
+    background-image:url(Images/Banner3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 100% 40%;
+    height: auto;
+    width: auto;
+}
+/*Contact Us End*/
+/*Login Page Start*/
+.link
+{
+    text-decoration: none;
+}
+/*Login Page End*/
